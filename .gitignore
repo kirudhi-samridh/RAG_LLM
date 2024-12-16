@@ -1,0 +1,9 @@
+chroma_db/
+uploads/
+
+*.pdf
+*.txt
+.env
+*.log
+
+__pycache__/
